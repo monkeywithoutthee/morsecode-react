@@ -1,0 +1,41 @@
+
+body {
+	background-color: #f5d312;
+	font-family: Arial, Helvetica, sans-serif;
+  text-align:center;
+}
+.outPut{
+  min-height:100px;
+  background-color:white;
+  margin:10px;
+  padding:20px;
+  width:90%;
+  max-height:300px;
+  overflow:auto;
+	text-align:left;
+  display: inline-block;
+}
+.inPut{
+	text-align:center;
+  width:100%;
+}
+.textInput{
+	margin: 10px;
+	width: 90%;
+}
+.holder{
+  width:100%;
+	padding:10px;
+  text-align: center;
+}
+.switchHolder{
+  paddding:10px;
+}
+.switchInput{
+  /*margin:10px;
+  padding:20px;*/
+  width:90%;
+}
+.playerHolder{
+  width: 100%;
+}
